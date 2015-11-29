@@ -1,6 +1,7 @@
 ### Introduction ###
 
 **Name**: Samik Saha
-**From**: Kolkata
-**Favorite Color:** Green
 
+**Current City**: Kolkata
+
+**Favorite Color:** Green
